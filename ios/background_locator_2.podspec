@@ -12,8 +12,8 @@ A new Flutter plugin.
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'REKAB' => 'mehdok@gmail.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*'
-  s.public_header_files = 'Classes/**/*.h'
+  s.source_files = 'background_locator_2/Sources/background_locator_2/**/*'
+  s.public_header_files = 'background_locator_2/Sources/background_locator_2/include/**/*.h'
   s.dependency 'Flutter'
 
   s.ios.deployment_target = '8.0'
