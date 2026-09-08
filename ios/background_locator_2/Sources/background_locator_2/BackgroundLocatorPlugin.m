@@ -1,9 +1,13 @@
 #import "BackgroundLocatorPlugin.h"
+#import "MethodCallHelper.h"
 #import "Globals.h"
 #import "Utils/Util.h"
 #import "Preferences/PreferencesManager.h"
 #import "InitPluggable.h"
 #import "DisposePluggable.h"
+
+@interface BackgroundLocatorPlugin () <MethodCallHelperDelegate>
+@end
 
 @implementation BackgroundLocatorPlugin {
     FlutterEngine *_headlessRunner;
