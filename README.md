@@ -1,9 +1,18 @@
-# Looking for Maintainers
-This project is no longer actively maintained. If you are interested in becoming a maintainer, please open an issue or contact me directly !
+# background_locator_plus ! [![pub package](https://img.shields.io/pub/v/background_locator_plus.svg)](https://pub.dartlang.org/packages/background_locator_plus) ![](https://img.shields.io/github/contributors/Yukams/background_locator_fixed) ![](https://img.shields.io/github/license/Yukams/background_locator_fixed)
 
-# background_locator_2 ! [![pub package](https://img.shields.io/pub/v/background_locator_2.svg)](https://pub.dartlang.org/packages/background_locator_2) ![](https://img.shields.io/github/contributors/Yukams/background_locator_fixed) ![](https://img.shields.io/github/license/Yukams/background_locator_fixed)
+> **This package is a maintained fork of [`background_locator_2`](https://github.com/Yukams/background_locator_fixed).** which was previously obtained via fork of [`background_locator`](https://pub.dev/packages/background_locator).
 
-This package is a V2 of the background_locator package, fixing it and making it work for the newest versions of Flutter. Please read the wiki in order to make this plugin work with flutter 3.x.
+`background_locator_plus` is based on the original [`background_locator_2`](https://pub.dev/packages/background_locator_2) and [`background_locator`](https://pub.dev/packages/background_locator) packages, which are no longer actively maintained.
+
+This fork aims to keep the package compatible with modern Flutter, Android, and iOS development environments while preserving the original API and functionality whenever possible.
+
+### Original project
+
+* **Original package:** https://pub.dev/packages/background_locator_2
+* **Original repository:** https://github.com/Yukams/background_locator_fixed
+* **Maintained fork:** https://github.com/tulioccalazans/background_locator.git
+
+This package is a "plus" version of the background_locator package, fixing it and making it work for the newest versions of Flutter.
 
 A Flutter plugin for getting location updates even when the app is killed.
 
@@ -28,3 +37,4 @@ Thanks to all who contributed on this plugin to fix bugs and adding new feature,
 * [Gerardo Ibarra](https://github.com/gpibarra)
 * [RomanJos](https://github.com/RomanJos)
 * [Marcelo Henrique Neppel](https://github.com/marceloneppel)
+* [Yukams](https://github.com/Yukams)

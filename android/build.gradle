@@ -2,11 +2,11 @@ plugins {
     id 'com.android.library'
 }
 
-group 'yukams.app.background_locator_2'
+group 'yukams.app.background_locator_plus'
 version '1.0-SNAPSHOT'
 
 android {
-    namespace 'yukams.app.background_locator_2'
+    namespace 'yukams.app.background_locator_plus'
     compileSdk 35
 
     sourceSets {

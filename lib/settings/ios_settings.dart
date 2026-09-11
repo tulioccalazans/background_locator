@@ -1,4 +1,4 @@
-import 'package:background_locator_2/keys.dart';
+import 'package:background_locator_plus/keys.dart';
 
 import 'locator_settings.dart';
 

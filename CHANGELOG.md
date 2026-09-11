@@ -1,4 +1,11 @@
-## 2.0.6
+## 3.0.0
+* Renamed package to background_locator_plus
+* Updated Android package name to yukams.app.background_locator_plus
+* Updated iOS podspec and paths
+* Updated dependencies and bumped version
+* Added Swift Package Manager (SPM) support for iOS.
+
+## 2.0.7
 * Fixing iOS build
 * Fixing memory leak on Android
 * Fixing callbacks on older Android devices
