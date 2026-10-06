@@ -3,7 +3,6 @@
 
 @interface BackgroundLocatorPlugin : NSObject<FlutterPlugin, CLLocationManagerDelegate>
 
-+ (BackgroundLocatorPlugin*_Nullable) getInstance;
-- (void)invokeMethod:(NSString*_Nonnull)method arguments:(id _Nullable)arguments;
+(BackgroundLocatorPlugin*_Nullable) getInstance;
 
 @end
